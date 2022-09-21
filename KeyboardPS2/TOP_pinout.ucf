@@ -1,0 +1,21 @@
+net "ps2_clk" loc = p64;
+
+net "clk_50MHz" loc = p80;
+
+net "ps2_data" loc = p63;
+
+net "ps2_code_out[0]" = p140;
+net "ps2_code_out[1]" = p139;
+net "ps2_code_out[2]" = p138;
+net "ps2_code_out[3]" = p137;
+net "ps2_code_out[4]" = p135;
+net "ps2_code_out[5]" = p133;
+net "ps2_code_out[6]" = p132;
+net "ps2_code_out[7]" = p131;
+
+net "ps2_code_new" = p93;
+
+net "std_logic_vector[0]" = p125;
+net "std_logic_vector[1]" = p126;
+net "std_logic_vector[2]" = p128;
+net "std_logic_vector[3]" = p130;
