@@ -1,0 +1,25 @@
+net "clk" loc = p80;
+
+net "row[0]" loc = p18;
+net "row[1]" loc = p16;
+net "row[2]" loc = p15;
+net "row[3]" loc = p13;
+
+net "column[0]" loc = p19;
+net "column[1]" loc = p20;
+net "column[2]" loc = p21;
+net "column[3]" loc = p22;
+
+net "output[0]" loc = p131;
+net "output[1]" loc = p132;
+net "output[2]" loc = p133;
+net "output[3]" loc = p135;
+net "output[4]" loc = p137;
+net "output[5]" loc = p138;
+net "output[6]" loc = p139;
+net "output[7]" loc = p140;
+
+net "common[0]" loc = p125;
+net "common[1]" loc = p126;
+net "common[2]" loc = p128;
+net "common[3]" loc = p130;
